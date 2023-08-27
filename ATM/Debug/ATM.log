@@ -1,0 +1,3 @@
+﻿  ATM.cpp
+C:\Users\false\Documents\Codestuff\ATM\ATM\ATM\ATM.cpp(108,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ATM.vcxproj -> C:\Users\false\Documents\Codestuff\ATM\ATM\Debug\ATM.exe
